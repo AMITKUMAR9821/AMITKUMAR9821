@@ -111,8 +111,8 @@ I am an aspiring **Data Analyst** focused on turning raw data into meaningful in
 
 ## 📫 Contact
 
-* LinkedIn: *(add link)*
-* Email: *(optional)*
+* LinkedIn: *(https://www.linkedin.com/in/amit-kumar9821/)*
+* Email: *(amitsehra201001@gmail.com)*
 
 ---
 
