@@ -13,7 +13,9 @@
 
 ## 👋 Introduction
 
-I am an aspiring **Data Analyst** focused on turning raw data into meaningful insights through analysis, visualization, and structured reporting. I work extensively with Python, SQL, Power BI, Excel, and R to solve real-world business problems.
+I’m an Data Analyst who enjoys working with data and learning through practical projects. I’ve worked on Python EDA projects, SQL analysis, Power BI dashboards, Excel reporting, and basic web scraping.
+
+I believe in learning by doing, so most of my skills come from solving real problems rather than just theory. I’m currently focused on improving my business understanding and visualization skills.
 
 ---
 
