@@ -32,7 +32,7 @@ I am an aspiring **Data Analyst** focused on turning raw data into meaningful in
 ## 📊 Data in Action
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Data Analysis Animation" width="600" />
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" alt="Data Analytics Dashboard Animation" width="600" />
 </p>
 
 <p align="center"><em>Turning raw data into insights through analysis, visualization, and reporting.</em></p>
