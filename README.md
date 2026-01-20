@@ -13,11 +13,7 @@
 
 ## 👋 Introduction
 
-I am an aspiring Data Analyst who has been consistently working on real-world datasets using Python, SQL, Power BI, Excel, and R.
-
-Most of my learning comes from hands-on projects, including sales analysis, customer churn analysis, web scraping, and dashboard building. I focus on understanding the data first, then translating it into clear insights that can support business decisions.
-
-Currently, I am refining my analytical thinking and visualization skills as I prepare for entry-level Data Analyst roles.
+I am an aspiring **Data Analyst** focused on turning raw data into meaningful insights through analysis, visualization, and structured reporting. I work extensively with Python, SQL, Power BI, Excel, and R to solve real-world business problems.
 
 ---
 
@@ -30,6 +26,16 @@ Currently, I am refining my analytical thinking and visualization skills as I pr
 | Visualization   | Power BI, Excel        |
 | Analysis        | EDA, Business Analysis |
 | Data Collection | Web Scraping           |
+
+---
+
+## 📊 Data in Action
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Data Analysis Animation" width="600" />
+</p>
+
+<p align="center"><em>Turning raw data into insights through analysis, visualization, and reporting.</em></p>
 
 ---
 
@@ -81,14 +87,6 @@ Currently, I am refining my analytical thinking and visualization skills as I pr
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AMITKUMAR9821&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 📊 Contribution Activity Graph
 
 <p align="center">
@@ -112,6 +110,7 @@ Currently, I am refining my analytical thinking and visualization skills as I pr
 * Data-driven decision support
 
 ---
+
 
 ## 📫 Contact
 
