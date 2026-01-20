@@ -1,6 +1,4 @@
-## Hi there 👋
-
-[<h1 align="center">Amit Kumar</h1>
+<h1 align="center">Amit Kumar</h1>
 <p align="center"><b>Data Analyst | Python • SQL • Power BI • Excel • R</b></p>
 
 <p align="center">
@@ -79,6 +77,30 @@ I am an aspiring **Data Analyst** focused on turning raw data into meaningful in
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AMITKUMAR9821&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📊 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMITKUMAR9821" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AMITKUMAR9821&style=for-the-badge" />
+</p>
+
+---
+
 ## 🎯 Career Focus
 
 * Entry-level / Junior Data Analyst roles
@@ -89,10 +111,9 @@ I am an aspiring **Data Analyst** focused on turning raw data into meaningful in
 
 ## 📫 Contact
 
-* LinkedIn: *(https://www.linkedin.com/in/amit-kumar9821/)*
-* Email: *(amitsehra201001@gmail.com)*
+* LinkedIn: *(add link)*
+* Email: *(optional)*
 
 ---
 
-<p align="center"><em>Building strong fundamentals and real-world projects — one dataset at a time.</em></p>](https://www.linkedin.com/in/amit-kumar9821/)
-
+<p align="center"><em>Building strong fundamentals and real-world projects — one dataset at a time.</em></p>
