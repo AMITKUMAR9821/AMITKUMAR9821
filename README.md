@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Amit Kumar</h1>
+[<h1 align="center">Amit Kumar</h1>
 <p align="center"><b>Data Analyst | Python • SQL • Power BI • Excel • R</b></p>
 
 <p align="center">
@@ -89,10 +89,10 @@ I am an aspiring **Data Analyst** focused on turning raw data into meaningful in
 
 ## 📫 Contact
 
-* LinkedIn: *(add link)*
-* Email: *(optional)*
+* LinkedIn: *(https://www.linkedin.com/in/amit-kumar9821/)*
+* Email: *(amitsehra201001@gmail.com)*
 
 ---
 
-<p align="center"><em>Building strong fundamentals and real-world projects — one dataset at a time.</em></p>
+<p align="center"><em>Building strong fundamentals and real-world projects — one dataset at a time.</em></p>](https://www.linkedin.com/in/amit-kumar9821/)
 
